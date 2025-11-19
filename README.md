@@ -2,8 +2,8 @@
 
 I'm Michael
 
-Welcome to my GitHub! I'm passionate about **data analytics**, **visualization**, and **cloud solutions**.  
-I love turning raw data into actionable insights using modern tools and technologies.
+Welcome to my GitHub! I'm passionate about **data analytics**, **visualizations**, and **cloud solutions**.  
+I love turning raw data into actionable insights using modern tools and technologies to generate powerful insights.
 
 ---
 
