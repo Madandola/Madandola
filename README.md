@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there 👋, 
 
-<!--
-**Madandola/Madandola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about **data analytics**, **visualization**, and **cloud solutions**.  
+I love turning raw data into actionable insights using modern tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+### 📊 Excel  
+**What I do:**  
+- Advanced formulas, pivot tables, and dashboards  
+- Data cleaning and automation with VBA  
+
+---
+
+### 📈 Tableau  
+**What I do:**  
+- Interactive dashboards and storytelling  
+- Connecting multiple data sources for insights  
+
+---
+
+### 📊 Power BI  
+**What I do:**  
+- Building dynamic reports  
+- DAX calculations and data modeling  
+
+---
+
+### 🗄️ SQL  
+**What I do:**  
+- Writing complex queries  
+- Database design and optimization  
+
+---
+
+### ☁️ Azure 
+**What I do:**  
+- Deploying data solutions in the cloud  
+- Working with Azure Data Factory and storage  
+
+---
+
+### 🐍 Python  
+**What I do:**  
+- Data analysis with Pandas and NumPy  
+- Visualization with Matplotlib and Seaborn  
+- Automation and scripting  
+
+---
+
+## 📊 GitHub Stats
+!Michael's GitHub stats
+
+---
+
+## 🎉 Fun Corner: Data Meme
+!Data Meme  
+*"When you finally fix that SQL query after 3 hours..."*
+
+---
+
+## 📫 Connect with Me
+- LinkedIn (https://www.linkedin.com/feed/)
