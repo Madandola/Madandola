@@ -9,8 +9,7 @@ I love turning raw data into actionable insights using modern tools and technolo
 
 ## 🔧 Skills & Tools
 
-### 📊 Excel  
-**What I do:**  
+### 📊 Excel   
 - Advanced formulas, pivot tables, and dashboards  
 - Data cleaning and automation with VBA  
 
@@ -24,28 +23,24 @@ I love turning raw data into actionable insights using modern tools and technolo
 ---
 
 ### 📊 Power BI  
-**What I do:**  
 - Building dynamic reports  
 - DAX calculations and data modeling  
 
 ---
 
 ### 🗄️ SQL  
-**What I do:**  
 - Writing complex queries  
 - Database design and optimization  
 
 ---
 
 ### ☁️ Azure 
-**What I do:**  
 - Deploying data solutions in the cloud  
 - Working with Azure Data Factory and storage  
 
 ---
 
-### 🐍 Python  
-**What I do:**  
+### 🐍 Python   
 - Data analysis with Pandas and NumPy  
 - Visualization with Matplotlib and Seaborn  
 - Automation and scripting  
@@ -58,7 +53,6 @@ I love turning raw data into actionable insights using modern tools and technolo
 ---
 
 ## 🎉 Fun Corner: Data Meme
-!Data Meme  
 *"When you finally fix that SQL query after 3 hours..."*
 
 ---
