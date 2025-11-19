@@ -64,4 +64,4 @@ I love turning raw data into actionable insights using modern tools and technolo
 ---
 
 ## 📫 Connect with Me
-- LinkedIn (https://www.linkedin.com/feed/)
+- LinkedIn (https://www.linkedin.com/feed/)  
