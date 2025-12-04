@@ -22,14 +22,16 @@ I’m passionate about turning complex datasets into clear, meaningful stories t
 ---
 
 ### 📊 Power BI  
+An interactive dashboard analysing sales trends, performance by region, and key business KPIs.
 - Building dynamic reports  
-- DAX calculations and data modeling  
+- DAX calculations and data modelling  
 
 ---
 
 ### 🗄️ SQL  
+SQL queries to explore, filter, join, and summarise datasets to answer real business questions.
 - Writing complex queries  
-- Database design and optimization  
+- Database design and optimisation  
 
 ---
 
@@ -39,9 +41,10 @@ I’m passionate about turning complex datasets into clear, meaningful stories t
 
 ---
 
-### 🐍 Python   
+### 🐍 Python  
+A project focused on cleaning large datasets, handling missing values, and generating insights using Pandas & Matplotlib.
 - Data analysis with Pandas and NumPy  
-- Visualization with Matplotlib and Seaborn  
+- Visualisation with Matplotlib and Seaborn  
 - Automation and scripting  
 
 ---
