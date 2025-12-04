@@ -16,7 +16,6 @@ I’m passionate about turning complex datasets into clear, meaningful stories t
 ---
 
 ### 📈 Tableau  
-**What I do:**  
 - Interactive dashboards and storytelling  
 - Connecting multiple data sources for insights  
 
@@ -58,4 +57,8 @@ I’m passionate about turning complex datasets into clear, meaningful stories t
 ---
 
 ## 📫 Connect with Me
-- LinkedIn (https://www.linkedin.com/feed/)  
+- LinkedIn (https://www.linkedin.com/feed/)
+
+- ### ⭐ Thanks for visiting my profile!  
+Feel free to explore my repos or reach out—I'm always open to collaborating and learning.
+
